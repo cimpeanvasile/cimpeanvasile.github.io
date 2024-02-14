@@ -4,10 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-CIV Digital Solutions SRL
-
-Pavel Rosca 4, apt. 28
-
-Cluj-Napoca, Cluj, Romania
+STR. PAVEL ROSCA NR.4 ET.1 AP.28\
+Cluj-Napoca 400001\
+Romania\
 
 [Email](mailto:contact@nomad-studios.net)

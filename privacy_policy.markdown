@@ -4,4 +4,4 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-TBA
+[Privacy Policy](/privacy_policy.html){:target="_blank"}
